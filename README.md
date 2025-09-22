@@ -1,7 +1,7 @@
 ## Ex. No. 01 -
-Image-Handling-and-Pixel-Transformations-Using-OpenCV 
-Name:C Dhanush
-register no:212224040066
+Image-Handling-and-Pixel-Transformations-Using-OpenCV*\
+Name:C Dhanush*\
+register no:212224040066*\
 
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
